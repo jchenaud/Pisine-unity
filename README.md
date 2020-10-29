@@ -18,7 +18,7 @@ Je l'ai personnellement validée avec la note de 112/100: les point au-dessus de
 
 Je suis assez fier du résultat surtout que j’ai perdu un jour complet de travail à cause d'un disque dur défectueux. Dans tout projet, il faut aussi compter sur les aléas et avoir une marge de sécurité.
 
-je ne vois pas l'interet de rentré trop de le detail ici. 
+je ne vois pas l'interet de rentré trop dans le detail ici. 
 si vous voulez en voir plus :
 
    [le premier rush :](https://github.com/jchenaud/miami)
